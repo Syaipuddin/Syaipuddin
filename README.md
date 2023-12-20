@@ -7,4 +7,6 @@
  👯 I’m looking to collaborate on Fun Software Engineering and IoT Projects </br>
  💬 Ask me about Anything!
 
+<br/>
+<br/>
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syaipuddin)](https://github.com/anuraghazra/github-readme-stats)
