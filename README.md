@@ -1,12 +1,21 @@
 ### Hi there 👋
 ## IT'S UDIN!
 
-<!--
-**Syaipuddin/Syaipuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
- 👯 I’m looking to collaborate on Fun Software Engineering and IoT Projects </br>
- 💬 Ask me about Anything!
+
+👯 I’m looking to collaborate on Fun Software Engineering and IoT Projects </br>
+💬 Ask me about Anything!
 
 <br/>
 <br/>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syaipuddin)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Syaipuddin&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Syaipuddin&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Syaipuddin&show_icons=true" />
+</picture>
